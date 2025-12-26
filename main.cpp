@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cstdlib> 
-#include "C:\Users\sheen\OneDrive - Great Valley School District\Junior Year\path\headerFiLES\functions.hpp"
+#include "headerFiLES/functions.hpp"
 int main(){
 
     int choice;
